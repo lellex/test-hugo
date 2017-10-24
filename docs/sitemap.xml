@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>lellex.github.io/test-hugo/categories/</loc>
+    <loc>lellex.fr/test-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lellex.github.io/test-hugo/</loc>
+    <loc>lellex.fr/test-hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lellex.github.io/test-hugo/tags/</loc>
+    <loc>lellex.fr/test-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   
